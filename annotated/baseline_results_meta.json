@@ -1,0 +1,15 @@
+{
+  "label_to_id": {
+    "neutral_mixed": 0,
+    "pro_choice": 1,
+    "pro_life": 2
+  },
+  "n_users": 47,
+  "class_counts": {
+    "pro_choice": 25,
+    "pro_life": 11,
+    "neutral_mixed": 11
+  },
+  "split_scheme": "Repeated stratified 60/20/20",
+  "n_seeds": 10
+}

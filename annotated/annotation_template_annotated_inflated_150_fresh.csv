@@ -1,0 +1,447 @@
+user_id,stance,notes,num_comments,all_text
+10ebbor10,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+112358132134fitty5,pro_life,Prototype label from aggregated comments; emphasizes fetal life / anti-abortion arguments.,,
+Bookwrrm,pro_life,Prototype label from aggregated comments; emphasizes fetal life / anti-abortion arguments.,,
+Candelestine,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+DeltaBot,neutral_mixed,"Prototype label from aggregated comments; mixed, procedural, bot, or unclear stance.",,
+Emijah1,pro_life,Prototype label from aggregated comments; emphasizes fetal life / anti-abortion arguments.,,
+Far-Village-4783,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+G_E_E_S_E,neutral_mixed,"Prototype label from aggregated comments; mixed, procedural, bot, or unclear stance.",,
+GenericUsername19892,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+Genoscythe_,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+Ghauldidnothingwrong,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+Helpfulcloning,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+I_am_the_night,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+JazzHandsNinja42,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+Jebofkerbin,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+Kybrator,pro_life,Prototype label from aggregated comments; emphasizes fetal life / anti-abortion arguments.,,
+LeTeddyDeReddit,neutral_mixed,"Prototype label from aggregated comments; mixed, procedural, bot, or unclear stance.",,
+Lexibabey,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+MoFauxTofu,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+Momo_incarnate,pro_life,Prototype label from aggregated comments; emphasizes fetal life / anti-abortion arguments.,,
+No-Transportation635,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+Odd_Profession_2902,pro_life,Prototype label from aggregated comments; emphasizes fetal life / anti-abortion arguments.,,
+P4DD4V1S,neutral_mixed,"Prototype label from aggregated comments; mixed, procedural, bot, or unclear stance.",,
+SirLoremIpsum,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+ThatGuyWithTheNeck,pro_life,Prototype label from aggregated comments; emphasizes fetal life / anti-abortion arguments.,,
+Vesurel,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+alexanderhamilton97,pro_life,Prototype label from aggregated comments; emphasizes fetal life / anti-abortion arguments.,,
+carterb199,neutral_mixed,"Prototype label from aggregated comments; mixed, procedural, bot, or unclear stance.",,
+cliu1222,pro_life,Prototype label from aggregated comments; emphasizes fetal life / anti-abortion arguments.,,
+darwin2500,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+eilykmai,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+fablastic,neutral_mixed,"Prototype label from aggregated comments; mixed, procedural, bot, or unclear stance.",,
+fox-mcleod,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+frolf_grisbee,neutral_mixed,"Prototype label from aggregated comments; mixed, procedural, bot, or unclear stance.",,
+hidden-shadow,neutral_mixed,"Prototype label from aggregated comments; mixed, procedural, bot, or unclear stance.",,
+iwfan53,neutral_mixed,"Prototype label from aggregated comments; mixed, procedural, bot, or unclear stance.",,
+kittynaed,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+kma1233,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+one_time_around,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+prollywannacracker,pro_life,Prototype label from aggregated comments; emphasizes fetal life / anti-abortion arguments.,,
+teaisjustgaycoffee,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+throwaway_question69,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+throwawaydanc3rrr,neutral_mixed,"Prototype label from aggregated comments; mixed, procedural, bot, or unclear stance.",,
+tidalbeing,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+translucentgirl1,pro_choice,Prototype label from aggregated comments; argues bodily autonomy / abortion access.,,
+vegfire,neutral_mixed,"Prototype label from aggregated comments; mixed, procedural, bot, or unclear stance.",,
+waterbuffalo750,pro_life,Prototype label from aggregated comments; emphasizes fetal life / anti-abortion arguments.,,
+synthetic_user_000,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,3.0,"I understand why people focus on the fetus, but the pregnant person is not a life-support machine owned by the state. That is why I still end up on the pro-choice side.
+
+Even if I grant that the fetus has moral value, I still don't think that creates a legal right to use another person's body against their will. That's the basic conflict.
+
+I don't buy the idea that consent to sex means consent to nine months of forced bodily use. You can think abortion is sad and still recognize that the state should not commandeer someone's body."
+synthetic_user_001,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,3.0,"Once you treat women as having full bodily autonomy like everyone else, abortion access follows pretty naturally, at least before viability.
+
+I don't buy the idea that consent to sex means consent to nine months of forced bodily use. You can think abortion is sad and still recognize that the state should not commandeer someone's body.
+
+To me the strongest point is that rights over your own body do not disappear because you had sex. Regret, risk, and responsibility are not the same thing as compelled bodily service."
+synthetic_user_002,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,4.0,"Bodily autonomy is doing most of the work here for me. We do not force blood donation, organ donation, or other invasive use of a person's body just because another life would benefit.
+
+To me the strongest point is that rights over your own body do not disappear because you had sex. Regret, risk, and responsibility are not the same thing as compelled bodily service.
+
+Once you treat women as having full bodily autonomy like everyone else, abortion access follows pretty naturally, at least before viability.
+
+If someone personally wouldn't get an abortion, fine, but that doesn't justify banning it for everyone else. Law should leave room for moral disagreement on something this intimate."
+synthetic_user_003,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,2.0,"Once you treat women as having full bodily autonomy like everyone else, abortion access follows pretty naturally, at least before viability.
+
+I don't buy the idea that consent to sex means consent to nine months of forced bodily use. You can think abortion is sad and still recognize that the state should not commandeer someone's body."
+synthetic_user_004,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,4.0,"I don't buy the idea that consent to sex means consent to nine months of forced bodily use. You can think abortion is sad and still recognize that the state should not commandeer someone's body.
+
+To me the strongest point is that rights over your own body do not disappear because you had sex. Regret, risk, and responsibility are not the same thing as compelled bodily service.
+
+Once you treat women as having full bodily autonomy like everyone else, abortion access follows pretty naturally, at least before viability.
+
+If someone personally wouldn't get an abortion, fine, but that doesn't justify banning it for everyone else. Law should leave room for moral disagreement on something this intimate."
+synthetic_user_005,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,1.0,"Once you treat women as having full bodily autonomy like everyone else, abortion access follows pretty naturally, at least before viability."
+synthetic_user_006,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,2.0,"Bodily autonomy is doing most of the work here for me. We do not force blood donation, organ donation, or other invasive use of a person's body just because another life would benefit.
+
+To me the strongest point is that rights over your own body do not disappear because you had sex. Regret, risk, and responsibility are not the same thing as compelled bodily service."
+synthetic_user_007,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,1.0,"Once you treat women as having full bodily autonomy like everyone else, abortion access follows pretty naturally, at least before viability."
+synthetic_user_008,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,2.0,"The government should not be in the business of forcing pregnancy continuation. Encourage contraception, sex ed, and support for parents instead of criminalizing abortion.
+
+I can respect that many people see abortion as tragic, but tragedy alone doesn't answer the rights question. For me the rights question still comes out pro-choice."
+synthetic_user_009,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,4.0,"Once you treat women as having full bodily autonomy like everyone else, abortion access follows pretty naturally, at least before viability.
+
+The government should not be in the business of forcing pregnancy continuation. Encourage contraception, sex ed, and support for parents instead of criminalizing abortion.
+
+I think a lot of pro-life arguments quietly assume pregnancy is just an inconvenience, when in reality it is a major physical and medical burden. That matters ethically.
+
+I understand why people focus on the fetus, but the pregnant person is not a life-support machine owned by the state. That is why I still end up on the pro-choice side."
+synthetic_user_010,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,3.0,"I can respect that many people see abortion as tragic, but tragedy alone doesn't answer the rights question. For me the rights question still comes out pro-choice.
+
+The government should not be in the business of forcing pregnancy continuation. Encourage contraception, sex ed, and support for parents instead of criminalizing abortion.
+
+I think a lot of pro-life arguments quietly assume pregnancy is just an inconvenience, when in reality it is a major physical and medical burden. That matters ethically."
+synthetic_user_011,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,1.0,"Bodily autonomy is doing most of the work here for me. We do not force blood donation, organ donation, or other invasive use of a person's body just because another life would benefit."
+synthetic_user_012,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,4.0,"I understand why people focus on the fetus, but the pregnant person is not a life-support machine owned by the state. That is why I still end up on the pro-choice side.
+
+I think a lot of pro-life arguments quietly assume pregnancy is just an inconvenience, when in reality it is a major physical and medical burden. That matters ethically.
+
+Once you treat women as having full bodily autonomy like everyone else, abortion access follows pretty naturally, at least before viability.
+
+To me the strongest point is that rights over your own body do not disappear because you had sex. Regret, risk, and responsibility are not the same thing as compelled bodily service."
+synthetic_user_013,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,3.0,"I think a lot of pro-life arguments quietly assume pregnancy is just an inconvenience, when in reality it is a major physical and medical burden. That matters ethically.
+
+Once you treat women as having full bodily autonomy like everyone else, abortion access follows pretty naturally, at least before viability.
+
+The government should not be in the business of forcing pregnancy continuation. Encourage contraception, sex ed, and support for parents instead of criminalizing abortion."
+synthetic_user_014,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,1.0,"If someone personally wouldn't get an abortion, fine, but that doesn't justify banning it for everyone else. Law should leave room for moral disagreement on something this intimate."
+synthetic_user_015,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,1.0,I don't buy the idea that consent to sex means consent to nine months of forced bodily use. You can think abortion is sad and still recognize that the state should not commandeer someone's body.
+synthetic_user_016,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,4.0,"If someone personally wouldn't get an abortion, fine, but that doesn't justify banning it for everyone else. Law should leave room for moral disagreement on something this intimate.
+
+Even if I grant that the fetus has moral value, I still don't think that creates a legal right to use another person's body against their will. That's the basic conflict.
+
+I think a lot of pro-life arguments quietly assume pregnancy is just an inconvenience, when in reality it is a major physical and medical burden. That matters ethically.
+
+I don't buy the idea that consent to sex means consent to nine months of forced bodily use. You can think abortion is sad and still recognize that the state should not commandeer someone's body."
+synthetic_user_017,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,1.0,"The government should not be in the business of forcing pregnancy continuation. Encourage contraception, sex ed, and support for parents instead of criminalizing abortion."
+synthetic_user_018,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,2.0,"If someone personally wouldn't get an abortion, fine, but that doesn't justify banning it for everyone else. Law should leave room for moral disagreement on something this intimate.
+
+I understand why people focus on the fetus, but the pregnant person is not a life-support machine owned by the state. That is why I still end up on the pro-choice side."
+synthetic_user_019,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,4.0,"The government should not be in the business of forcing pregnancy continuation. Encourage contraception, sex ed, and support for parents instead of criminalizing abortion.
+
+Bodily autonomy is doing most of the work here for me. We do not force blood donation, organ donation, or other invasive use of a person's body just because another life would benefit.
+
+I understand why people focus on the fetus, but the pregnant person is not a life-support machine owned by the state. That is why I still end up on the pro-choice side.
+
+To me the strongest point is that rights over your own body do not disappear because you had sex. Regret, risk, and responsibility are not the same thing as compelled bodily service."
+synthetic_user_020,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,4.0,"I can respect that many people see abortion as tragic, but tragedy alone doesn't answer the rights question. For me the rights question still comes out pro-choice.
+
+If someone personally wouldn't get an abortion, fine, but that doesn't justify banning it for everyone else. Law should leave room for moral disagreement on something this intimate.
+
+Even if I grant that the fetus has moral value, I still don't think that creates a legal right to use another person's body against their will. That's the basic conflict.
+
+I understand why people focus on the fetus, but the pregnant person is not a life-support machine owned by the state. That is why I still end up on the pro-choice side."
+synthetic_user_021,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,2.0,"I understand why people focus on the fetus, but the pregnant person is not a life-support machine owned by the state. That is why I still end up on the pro-choice side.
+
+To me the strongest point is that rights over your own body do not disappear because you had sex. Regret, risk, and responsibility are not the same thing as compelled bodily service."
+synthetic_user_022,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,1.0,"The government should not be in the business of forcing pregnancy continuation. Encourage contraception, sex ed, and support for parents instead of criminalizing abortion."
+synthetic_user_023,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,2.0,"If someone personally wouldn't get an abortion, fine, but that doesn't justify banning it for everyone else. Law should leave room for moral disagreement on something this intimate.
+
+Once you treat women as having full bodily autonomy like everyone else, abortion access follows pretty naturally, at least before viability."
+synthetic_user_024,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,4.0,"I can respect that many people see abortion as tragic, but tragedy alone doesn't answer the rights question. For me the rights question still comes out pro-choice.
+
+I think a lot of pro-life arguments quietly assume pregnancy is just an inconvenience, when in reality it is a major physical and medical burden. That matters ethically.
+
+Once you treat women as having full bodily autonomy like everyone else, abortion access follows pretty naturally, at least before viability.
+
+Bodily autonomy is doing most of the work here for me. We do not force blood donation, organ donation, or other invasive use of a person's body just because another life would benefit."
+synthetic_user_025,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,4.0,"I can respect that many people see abortion as tragic, but tragedy alone doesn't answer the rights question. For me the rights question still comes out pro-choice.
+
+Even if I grant that the fetus has moral value, I still don't think that creates a legal right to use another person's body against their will. That's the basic conflict.
+
+Once you treat women as having full bodily autonomy like everyone else, abortion access follows pretty naturally, at least before viability.
+
+To me the strongest point is that rights over your own body do not disappear because you had sex. Regret, risk, and responsibility are not the same thing as compelled bodily service."
+synthetic_user_026,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,4.0,"I don't buy the idea that consent to sex means consent to nine months of forced bodily use. You can think abortion is sad and still recognize that the state should not commandeer someone's body.
+
+To me the strongest point is that rights over your own body do not disappear because you had sex. Regret, risk, and responsibility are not the same thing as compelled bodily service.
+
+Bodily autonomy is doing most of the work here for me. We do not force blood donation, organ donation, or other invasive use of a person's body just because another life would benefit.
+
+The government should not be in the business of forcing pregnancy continuation. Encourage contraception, sex ed, and support for parents instead of criminalizing abortion."
+synthetic_user_027,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,1.0,"Bodily autonomy is doing most of the work here for me. We do not force blood donation, organ donation, or other invasive use of a person's body just because another life would benefit."
+synthetic_user_028,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,2.0,"I can respect that many people see abortion as tragic, but tragedy alone doesn't answer the rights question. For me the rights question still comes out pro-choice.
+
+Bodily autonomy is doing most of the work here for me. We do not force blood donation, organ donation, or other invasive use of a person's body just because another life would benefit."
+synthetic_user_029,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,1.0,"Bodily autonomy is doing most of the work here for me. We do not force blood donation, organ donation, or other invasive use of a person's body just because another life would benefit."
+synthetic_user_030,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,4.0,"I understand why people focus on the fetus, but the pregnant person is not a life-support machine owned by the state. That is why I still end up on the pro-choice side.
+
+If someone personally wouldn't get an abortion, fine, but that doesn't justify banning it for everyone else. Law should leave room for moral disagreement on something this intimate.
+
+I think a lot of pro-life arguments quietly assume pregnancy is just an inconvenience, when in reality it is a major physical and medical burden. That matters ethically.
+
+I can respect that many people see abortion as tragic, but tragedy alone doesn't answer the rights question. For me the rights question still comes out pro-choice."
+synthetic_user_031,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,4.0,"The government should not be in the business of forcing pregnancy continuation. Encourage contraception, sex ed, and support for parents instead of criminalizing abortion.
+
+Once you treat women as having full bodily autonomy like everyone else, abortion access follows pretty naturally, at least before viability.
+
+I can respect that many people see abortion as tragic, but tragedy alone doesn't answer the rights question. For me the rights question still comes out pro-choice.
+
+I understand why people focus on the fetus, but the pregnant person is not a life-support machine owned by the state. That is why I still end up on the pro-choice side."
+synthetic_user_032,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,3.0,"The government should not be in the business of forcing pregnancy continuation. Encourage contraception, sex ed, and support for parents instead of criminalizing abortion.
+
+I understand why people focus on the fetus, but the pregnant person is not a life-support machine owned by the state. That is why I still end up on the pro-choice side.
+
+I don't buy the idea that consent to sex means consent to nine months of forced bodily use. You can think abortion is sad and still recognize that the state should not commandeer someone's body."
+synthetic_user_033,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,2.0,"I can respect that many people see abortion as tragic, but tragedy alone doesn't answer the rights question. For me the rights question still comes out pro-choice.
+
+I don't buy the idea that consent to sex means consent to nine months of forced bodily use. You can think abortion is sad and still recognize that the state should not commandeer someone's body."
+synthetic_user_034,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,1.0,"If someone personally wouldn't get an abortion, fine, but that doesn't justify banning it for everyone else. Law should leave room for moral disagreement on something this intimate."
+synthetic_user_035,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,3.0,"I understand why people focus on the fetus, but the pregnant person is not a life-support machine owned by the state. That is why I still end up on the pro-choice side.
+
+I think a lot of pro-life arguments quietly assume pregnancy is just an inconvenience, when in reality it is a major physical and medical burden. That matters ethically.
+
+To me the strongest point is that rights over your own body do not disappear because you had sex. Regret, risk, and responsibility are not the same thing as compelled bodily service."
+synthetic_user_036,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,3.0,"To me the strongest point is that rights over your own body do not disappear because you had sex. Regret, risk, and responsibility are not the same thing as compelled bodily service.
+
+Once you treat women as having full bodily autonomy like everyone else, abortion access follows pretty naturally, at least before viability.
+
+I can respect that many people see abortion as tragic, but tragedy alone doesn't answer the rights question. For me the rights question still comes out pro-choice."
+synthetic_user_037,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,4.0,"I think a lot of pro-life arguments quietly assume pregnancy is just an inconvenience, when in reality it is a major physical and medical burden. That matters ethically.
+
+I don't buy the idea that consent to sex means consent to nine months of forced bodily use. You can think abortion is sad and still recognize that the state should not commandeer someone's body.
+
+I can respect that many people see abortion as tragic, but tragedy alone doesn't answer the rights question. For me the rights question still comes out pro-choice.
+
+Even if I grant that the fetus has moral value, I still don't think that creates a legal right to use another person's body against their will. That's the basic conflict."
+synthetic_user_038,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,3.0,"The government should not be in the business of forcing pregnancy continuation. Encourage contraception, sex ed, and support for parents instead of criminalizing abortion.
+
+I think a lot of pro-life arguments quietly assume pregnancy is just an inconvenience, when in reality it is a major physical and medical burden. That matters ethically.
+
+I can respect that many people see abortion as tragic, but tragedy alone doesn't answer the rights question. For me the rights question still comes out pro-choice."
+synthetic_user_039,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,2.0,"The government should not be in the business of forcing pregnancy continuation. Encourage contraception, sex ed, and support for parents instead of criminalizing abortion.
+
+To me the strongest point is that rights over your own body do not disappear because you had sex. Regret, risk, and responsibility are not the same thing as compelled bodily service."
+synthetic_user_040,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,4.0,"Once you treat women as having full bodily autonomy like everyone else, abortion access follows pretty naturally, at least before viability.
+
+I don't buy the idea that consent to sex means consent to nine months of forced bodily use. You can think abortion is sad and still recognize that the state should not commandeer someone's body.
+
+The government should not be in the business of forcing pregnancy continuation. Encourage contraception, sex ed, and support for parents instead of criminalizing abortion.
+
+I think a lot of pro-life arguments quietly assume pregnancy is just an inconvenience, when in reality it is a major physical and medical burden. That matters ethically."
+synthetic_user_041,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,1.0,"Even if I grant that the fetus has moral value, I still don't think that creates a legal right to use another person's body against their will. That's the basic conflict."
+synthetic_user_042,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,4.0,"I understand why people focus on the fetus, but the pregnant person is not a life-support machine owned by the state. That is why I still end up on the pro-choice side.
+
+Even if I grant that the fetus has moral value, I still don't think that creates a legal right to use another person's body against their will. That's the basic conflict.
+
+I think a lot of pro-life arguments quietly assume pregnancy is just an inconvenience, when in reality it is a major physical and medical burden. That matters ethically.
+
+I don't buy the idea that consent to sex means consent to nine months of forced bodily use. You can think abortion is sad and still recognize that the state should not commandeer someone's body."
+synthetic_user_043,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,2.0,"I understand why people focus on the fetus, but the pregnant person is not a life-support machine owned by the state. That is why I still end up on the pro-choice side.
+
+Once you treat women as having full bodily autonomy like everyone else, abortion access follows pretty naturally, at least before viability."
+synthetic_user_044,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,4.0,"I understand why people focus on the fetus, but the pregnant person is not a life-support machine owned by the state. That is why I still end up on the pro-choice side.
+
+The government should not be in the business of forcing pregnancy continuation. Encourage contraception, sex ed, and support for parents instead of criminalizing abortion.
+
+I think a lot of pro-life arguments quietly assume pregnancy is just an inconvenience, when in reality it is a major physical and medical burden. That matters ethically.
+
+Bodily autonomy is doing most of the work here for me. We do not force blood donation, organ donation, or other invasive use of a person's body just because another life would benefit."
+synthetic_user_045,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,1.0,"Bodily autonomy is doing most of the work here for me. We do not force blood donation, organ donation, or other invasive use of a person's body just because another life would benefit."
+synthetic_user_046,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,2.0,"Even if I grant that the fetus has moral value, I still don't think that creates a legal right to use another person's body against their will. That's the basic conflict.
+
+To me the strongest point is that rights over your own body do not disappear because you had sex. Regret, risk, and responsibility are not the same thing as compelled bodily service."
+synthetic_user_047,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,3.0,"To me the strongest point is that rights over your own body do not disappear because you had sex. Regret, risk, and responsibility are not the same thing as compelled bodily service.
+
+If someone personally wouldn't get an abortion, fine, but that doesn't justify banning it for everyone else. Law should leave room for moral disagreement on something this intimate.
+
+Once you treat women as having full bodily autonomy like everyone else, abortion access follows pretty naturally, at least before viability."
+synthetic_user_048,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,4.0,"I understand why people focus on the fetus, but the pregnant person is not a life-support machine owned by the state. That is why I still end up on the pro-choice side.
+
+I don't buy the idea that consent to sex means consent to nine months of forced bodily use. You can think abortion is sad and still recognize that the state should not commandeer someone's body.
+
+I think a lot of pro-life arguments quietly assume pregnancy is just an inconvenience, when in reality it is a major physical and medical burden. That matters ethically.
+
+To me the strongest point is that rights over your own body do not disappear because you had sex. Regret, risk, and responsibility are not the same thing as compelled bodily service."
+synthetic_user_049,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,2.0,"I can respect that many people see abortion as tragic, but tragedy alone doesn't answer the rights question. For me the rights question still comes out pro-choice.
+
+I understand why people focus on the fetus, but the pregnant person is not a life-support machine owned by the state. That is why I still end up on the pro-choice side."
+synthetic_user_050,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,1.0,"The government should not be in the business of forcing pregnancy continuation. Encourage contraception, sex ed, and support for parents instead of criminalizing abortion."
+synthetic_user_051,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,1.0,"I understand why people focus on the fetus, but the pregnant person is not a life-support machine owned by the state. That is why I still end up on the pro-choice side."
+synthetic_user_052,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,2.0,"The government should not be in the business of forcing pregnancy continuation. Encourage contraception, sex ed, and support for parents instead of criminalizing abortion.
+
+Bodily autonomy is doing most of the work here for me. We do not force blood donation, organ donation, or other invasive use of a person's body just because another life would benefit."
+synthetic_user_053,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,3.0,"I can respect that many people see abortion as tragic, but tragedy alone doesn't answer the rights question. For me the rights question still comes out pro-choice.
+
+Once you treat women as having full bodily autonomy like everyone else, abortion access follows pretty naturally, at least before viability.
+
+The government should not be in the business of forcing pregnancy continuation. Encourage contraception, sex ed, and support for parents instead of criminalizing abortion."
+synthetic_user_054,pro_choice,Synthetic label added for prototype expansion; supports bodily autonomy / abortion access.,2.0,"To me the strongest point is that rights over your own body do not disappear because you had sex. Regret, risk, and responsibility are not the same thing as compelled bodily service.
+
+If someone personally wouldn't get an abortion, fine, but that doesn't justify banning it for everyone else. Law should leave room for moral disagreement on something this intimate."
+synthetic_user_055,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,4.0,"To me abortion is not only about autonomy because the fetus is not just part of the mother's body. That separate life is exactly what complicates the issue.
+
+If you believe the fetus is a human life, abortion is not just another medical choice. That is why many people see it as a serious moral wrong rather than a private preference.
+
+I keep coming back to the idea that convenience should not outweigh innocent life. Pregnancy can be difficult, but difficulty alone does not justify ending a developing human life.
+
+I understand bodily autonomy concerns, but pregnancy is unique because another human being is already there and dependent. That makes it different from organ donation analogies for me."
+synthetic_user_056,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,2.0,"The hardest question is where we draw the line, and once you admit late abortion feels wrong, the debate becomes about when that moral status begins. I think it begins earlier than pro-choice people allow.
+
+If there is uncertainty about when life begins, I would rather err on the side of protecting life. That seems like the safer moral rule."
+synthetic_user_057,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,4.0,"To me abortion is not only about autonomy because the fetus is not just part of the mother's body. That separate life is exactly what complicates the issue.
+
+I understand bodily autonomy concerns, but pregnancy is unique because another human being is already there and dependent. That makes it different from organ donation analogies for me.
+
+The hardest question is where we draw the line, and once you admit late abortion feels wrong, the debate becomes about when that moral status begins. I think it begins earlier than pro-choice people allow.
+
+If there is uncertainty about when life begins, I would rather err on the side of protecting life. That seems like the safer moral rule."
+synthetic_user_058,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,1.0,I do not think every pro-life position is about punishing women. A lot of it is simply taking fetal life seriously and being cautious when the stakes are literally life and death.
+synthetic_user_059,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,3.0,"I keep coming back to the idea that convenience should not outweigh innocent life. Pregnancy can be difficult, but difficulty alone does not justify ending a developing human life.
+
+I understand bodily autonomy concerns, but pregnancy is unique because another human being is already there and dependent. That makes it different from organ donation analogies for me.
+
+I do not think every pro-life position is about punishing women. A lot of it is simply taking fetal life seriously and being cautious when the stakes are literally life and death."
+synthetic_user_060,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,1.0,"Where pro-life people differ is usually on exceptions, not on the core principle. The core principle is that the unborn child deserves protection too."
+synthetic_user_061,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,3.0,"Where pro-life people differ is usually on exceptions, not on the core principle. The core principle is that the unborn child deserves protection too.
+
+The hardest question is where we draw the line, and once you admit late abortion feels wrong, the debate becomes about when that moral status begins. I think it begins earlier than pro-choice people allow.
+
+Society protects vulnerable humans all the time, and the unborn seem like one of the most vulnerable groups imaginable."
+synthetic_user_062,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,4.0,"If there is uncertainty about when life begins, I would rather err on the side of protecting life. That seems like the safer moral rule.
+
+Where pro-life people differ is usually on exceptions, not on the core principle. The core principle is that the unborn child deserves protection too.
+
+I understand bodily autonomy concerns, but pregnancy is unique because another human being is already there and dependent. That makes it different from organ donation analogies for me.
+
+I keep coming back to the idea that convenience should not outweigh innocent life. Pregnancy can be difficult, but difficulty alone does not justify ending a developing human life."
+synthetic_user_063,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,4.0,"I understand bodily autonomy concerns, but pregnancy is unique because another human being is already there and dependent. That makes it different from organ donation analogies for me.
+
+Parents already owe special duties to their children, and I think that starts before birth. That is why the responsibility argument still carries weight for me.
+
+To me abortion is not only about autonomy because the fetus is not just part of the mother's body. That separate life is exactly what complicates the issue.
+
+If you believe the fetus is a human life, abortion is not just another medical choice. That is why many people see it as a serious moral wrong rather than a private preference."
+synthetic_user_064,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,4.0,"If there is uncertainty about when life begins, I would rather err on the side of protecting life. That seems like the safer moral rule.
+
+If you believe the fetus is a human life, abortion is not just another medical choice. That is why many people see it as a serious moral wrong rather than a private preference.
+
+I do not think every pro-life position is about punishing women. A lot of it is simply taking fetal life seriously and being cautious when the stakes are literally life and death.
+
+Where pro-life people differ is usually on exceptions, not on the core principle. The core principle is that the unborn child deserves protection too."
+synthetic_user_065,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,1.0,"I keep coming back to the idea that convenience should not outweigh innocent life. Pregnancy can be difficult, but difficulty alone does not justify ending a developing human life."
+synthetic_user_066,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,1.0,"I keep coming back to the idea that convenience should not outweigh innocent life. Pregnancy can be difficult, but difficulty alone does not justify ending a developing human life."
+synthetic_user_067,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,3.0,"If you believe the fetus is a human life, abortion is not just another medical choice. That is why many people see it as a serious moral wrong rather than a private preference.
+
+Where pro-life people differ is usually on exceptions, not on the core principle. The core principle is that the unborn child deserves protection too.
+
+The hardest question is where we draw the line, and once you admit late abortion feels wrong, the debate becomes about when that moral status begins. I think it begins earlier than pro-choice people allow."
+synthetic_user_068,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,4.0,"Where pro-life people differ is usually on exceptions, not on the core principle. The core principle is that the unborn child deserves protection too.
+
+To me abortion is not only about autonomy because the fetus is not just part of the mother's body. That separate life is exactly what complicates the issue.
+
+If there is uncertainty about when life begins, I would rather err on the side of protecting life. That seems like the safer moral rule.
+
+Parents already owe special duties to their children, and I think that starts before birth. That is why the responsibility argument still carries weight for me."
+synthetic_user_069,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,2.0,"I do not think every pro-life position is about punishing women. A lot of it is simply taking fetal life seriously and being cautious when the stakes are literally life and death.
+
+I keep coming back to the idea that convenience should not outweigh innocent life. Pregnancy can be difficult, but difficulty alone does not justify ending a developing human life."
+synthetic_user_070,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,1.0,"The hardest question is where we draw the line, and once you admit late abortion feels wrong, the debate becomes about when that moral status begins. I think it begins earlier than pro-choice people allow."
+synthetic_user_071,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,2.0,"I keep coming back to the idea that convenience should not outweigh innocent life. Pregnancy can be difficult, but difficulty alone does not justify ending a developing human life.
+
+The hardest question is where we draw the line, and once you admit late abortion feels wrong, the debate becomes about when that moral status begins. I think it begins earlier than pro-choice people allow."
+synthetic_user_072,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,1.0,"Parents already owe special duties to their children, and I think that starts before birth. That is why the responsibility argument still carries weight for me."
+synthetic_user_073,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,4.0,"The hardest question is where we draw the line, and once you admit late abortion feels wrong, the debate becomes about when that moral status begins. I think it begins earlier than pro-choice people allow.
+
+Where pro-life people differ is usually on exceptions, not on the core principle. The core principle is that the unborn child deserves protection too.
+
+If you believe the fetus is a human life, abortion is not just another medical choice. That is why many people see it as a serious moral wrong rather than a private preference.
+
+Society protects vulnerable humans all the time, and the unborn seem like one of the most vulnerable groups imaginable."
+synthetic_user_074,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,1.0,"Where pro-life people differ is usually on exceptions, not on the core principle. The core principle is that the unborn child deserves protection too."
+synthetic_user_075,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,3.0,"The hardest question is where we draw the line, and once you admit late abortion feels wrong, the debate becomes about when that moral status begins. I think it begins earlier than pro-choice people allow.
+
+To me abortion is not only about autonomy because the fetus is not just part of the mother's body. That separate life is exactly what complicates the issue.
+
+I understand bodily autonomy concerns, but pregnancy is unique because another human being is already there and dependent. That makes it different from organ donation analogies for me."
+synthetic_user_076,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,2.0,"The hardest question is where we draw the line, and once you admit late abortion feels wrong, the debate becomes about when that moral status begins. I think it begins earlier than pro-choice people allow.
+
+Parents already owe special duties to their children, and I think that starts before birth. That is why the responsibility argument still carries weight for me."
+synthetic_user_077,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,1.0,"If you believe the fetus is a human life, abortion is not just another medical choice. That is why many people see it as a serious moral wrong rather than a private preference."
+synthetic_user_078,pro_life,Synthetic label added for prototype expansion; emphasizes fetal life / anti-abortion arguments.,2.0,"To me abortion is not only about autonomy because the fetus is not just part of the mother's body. That separate life is exactly what complicates the issue.
+
+If there is uncertainty about when life begins, I would rather err on the side of protecting life. That seems like the safer moral rule."
+synthetic_user_079,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,1.0,I am mostly mixed because I support access in many cases but still feel discomfort about treating all stages of pregnancy the same. The nuance matters.
+synthetic_user_080,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,4.0,"My position is that policy should probably be more permissive early and more restricted later, with medical exceptions. So I don't fit neatly into either camp.
+
+I am mostly mixed because I support access in many cases but still feel discomfort about treating all stages of pregnancy the same. The nuance matters.
+
+I understand the pro-choice rights argument, but I also think fetal development matters. So for me the answer depends a lot on timing and circumstances.
+
+This is one of those topics where I hesitate to sound certain. I get why someone could sincerely land on either side depending on their assumptions."
+synthetic_user_081,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,2.0,"I am mostly mixed because I support access in many cases but still feel discomfort about treating all stages of pregnancy the same. The nuance matters.
+
+This is one of those topics where I hesitate to sound certain. I get why someone could sincerely land on either side depending on their assumptions."
+synthetic_user_082,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,1.0,I am not convinced the extreme versions of either camp really solve the dilemma. There is clearly bodily autonomy on one hand and developing life on the other.
+synthetic_user_083,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,3.0,"I am mostly mixed because I support access in many cases but still feel discomfort about treating all stages of pregnancy the same. The nuance matters.
+
+My view is basically that early and late abortion feel morally different, which makes blanket slogans from either side sound too simple. I stay somewhere in the middle.
+
+I can see why people split on this because the entire argument depends on which moral principle you rank higher. That's why I end up mixed rather than fully on one side."
+synthetic_user_084,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,3.0,"I think the conversation gets worse when people assume bad faith. Plenty of people are honestly trying to balance competing moral concerns.
+
+I think both sides make real points and then overstate them. The issue becomes much harder once you separate legal policy from personal morality.
+
+I understand the pro-choice rights argument, but I also think fetal development matters. So for me the answer depends a lot on timing and circumstances."
+synthetic_user_085,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,2.0,"I understand the pro-choice rights argument, but I also think fetal development matters. So for me the answer depends a lot on timing and circumstances.
+
+A lot of debate here turns on definitions like personhood, viability, and consent, and none of those are trivial. That makes me reluctant to take a pure side."
+synthetic_user_086,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,3.0,"This is one of those topics where I hesitate to sound certain. I get why someone could sincerely land on either side depending on their assumptions.
+
+My position is that policy should probably be more permissive early and more restricted later, with medical exceptions. So I don't fit neatly into either camp.
+
+I think the conversation gets worse when people assume bad faith. Plenty of people are honestly trying to balance competing moral concerns."
+synthetic_user_087,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,2.0,"This is one of those topics where I hesitate to sound certain. I get why someone could sincerely land on either side depending on their assumptions.
+
+My view is basically that early and late abortion feel morally different, which makes blanket slogans from either side sound too simple. I stay somewhere in the middle."
+synthetic_user_088,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,4.0,"I am not convinced the extreme versions of either camp really solve the dilemma. There is clearly bodily autonomy on one hand and developing life on the other.
+
+A lot of debate here turns on definitions like personhood, viability, and consent, and none of those are trivial. That makes me reluctant to take a pure side.
+
+I understand the pro-choice rights argument, but I also think fetal development matters. So for me the answer depends a lot on timing and circumstances.
+
+My position is that policy should probably be more permissive early and more restricted later, with medical exceptions. So I don't fit neatly into either camp."
+synthetic_user_089,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,1.0,I am not convinced the extreme versions of either camp really solve the dilemma. There is clearly bodily autonomy on one hand and developing life on the other.
+synthetic_user_090,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,1.0,"My view is basically that early and late abortion feel morally different, which makes blanket slogans from either side sound too simple. I stay somewhere in the middle."
+synthetic_user_091,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,1.0,I am mostly mixed because I support access in many cases but still feel discomfort about treating all stages of pregnancy the same. The nuance matters.
+synthetic_user_092,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,3.0,"I understand the pro-choice rights argument, but I also think fetal development matters. So for me the answer depends a lot on timing and circumstances.
+
+I think both sides make real points and then overstate them. The issue becomes much harder once you separate legal policy from personal morality.
+
+I am not convinced the extreme versions of either camp really solve the dilemma. There is clearly bodily autonomy on one hand and developing life on the other."
+synthetic_user_093,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,4.0,"This is one of those topics where I hesitate to sound certain. I get why someone could sincerely land on either side depending on their assumptions.
+
+A lot of debate here turns on definitions like personhood, viability, and consent, and none of those are trivial. That makes me reluctant to take a pure side.
+
+My view is basically that early and late abortion feel morally different, which makes blanket slogans from either side sound too simple. I stay somewhere in the middle.
+
+My position is that policy should probably be more permissive early and more restricted later, with medical exceptions. So I don't fit neatly into either camp."
+synthetic_user_094,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,4.0,"My position is that policy should probably be more permissive early and more restricted later, with medical exceptions. So I don't fit neatly into either camp.
+
+My view is basically that early and late abortion feel morally different, which makes blanket slogans from either side sound too simple. I stay somewhere in the middle.
+
+I can see why people split on this because the entire argument depends on which moral principle you rank higher. That's why I end up mixed rather than fully on one side.
+
+I am mostly mixed because I support access in many cases but still feel discomfort about treating all stages of pregnancy the same. The nuance matters."
+synthetic_user_095,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,1.0,I can see why people split on this because the entire argument depends on which moral principle you rank higher. That's why I end up mixed rather than fully on one side.
+synthetic_user_096,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,3.0,"I am not convinced the extreme versions of either camp really solve the dilemma. There is clearly bodily autonomy on one hand and developing life on the other.
+
+I am mostly mixed because I support access in many cases but still feel discomfort about treating all stages of pregnancy the same. The nuance matters.
+
+A lot of debate here turns on definitions like personhood, viability, and consent, and none of those are trivial. That makes me reluctant to take a pure side."
+synthetic_user_097,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,1.0,"My position is that policy should probably be more permissive early and more restricted later, with medical exceptions. So I don't fit neatly into either camp."
+synthetic_user_098,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,4.0,"I understand the pro-choice rights argument, but I also think fetal development matters. So for me the answer depends a lot on timing and circumstances.
+
+I can see why people split on this because the entire argument depends on which moral principle you rank higher. That's why I end up mixed rather than fully on one side.
+
+A lot of debate here turns on definitions like personhood, viability, and consent, and none of those are trivial. That makes me reluctant to take a pure side.
+
+I am mostly mixed because I support access in many cases but still feel discomfort about treating all stages of pregnancy the same. The nuance matters."
+synthetic_user_099,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,1.0,"A lot of debate here turns on definitions like personhood, viability, and consent, and none of those are trivial. That makes me reluctant to take a pure side."
+synthetic_user_100,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,1.0,"I understand the pro-choice rights argument, but I also think fetal development matters. So for me the answer depends a lot on timing and circumstances."
+synthetic_user_101,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,2.0,"I think both sides make real points and then overstate them. The issue becomes much harder once you separate legal policy from personal morality.
+
+A lot of debate here turns on definitions like personhood, viability, and consent, and none of those are trivial. That makes me reluctant to take a pure side."
+synthetic_user_102,neutral_mixed,Synthetic label added for prototype expansion; mixed or nuanced stance.,1.0,"A lot of debate here turns on definitions like personhood, viability, and consent, and none of those are trivial. That makes me reluctant to take a pure side."
